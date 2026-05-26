@@ -25,7 +25,7 @@ Para rodar este projeto localmente, certifique-se de ter o Python 3.8 ou superio
 
 1. **Clonar o repositório**:
 ```bash
-git clone https://github.com/tarsislimadev/chicken-detection.git
+git clone https://github.com/tarsislimadev/fatec-ia-detection.git
 cd chicken-detection
 ```
 

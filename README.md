@@ -31,7 +31,7 @@ cd fatec-ia-detection
 
 2. **Instalar dependências**:
 ```bash
-pip install ultralytics
+python -m pip install -r requirements.txt
 ```
 
 ---

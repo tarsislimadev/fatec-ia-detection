@@ -4,7 +4,7 @@
 [![YOLOv8](https://img.shields.io/badge/modelo-YOLOv8n-green.svg)](https://github.com/ultralytics/ultralytics)
 [![License: MIT](https://img.shields.io/badge/Licen%C3%A7a-MIT-yellow.svg)](./LICENSE)
 
-Um projeto de visão computacional projetado para detectar galinhas e frangos utilizando a arquitetura de ponta **YOLOv8** (You Only Look Once). Este projeto utiliza um dataset customizado, anotado via [CVAT.ai](https://cvat.ai/), e é otimizado para inferência em tempo real em dispositivos móveis ou de borda (edge).
+Um projeto de visão computacional projetado para detectar galinhas e frangos utilizando a arquitetura de ponta [YOLOv8](https://yolov8.com/) (You Only Look Once). Este projeto utiliza um dataset customizado, anotado via [CVAT.ai](https://cvat.ai/), e é otimizado para inferência em tempo real em dispositivos móveis ou de borda (edge).
 
 ---
 
